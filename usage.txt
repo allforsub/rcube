@@ -1,0 +1,1 @@
+7z a archive_name target -p -mhe=on
